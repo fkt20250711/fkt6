@@ -16,4 +16,4 @@
 
 作为一个互动平台，我们鼓励用户参与评分、评论、分享等活动，您不仅可以在这里找到优质影片，还可以与其他影迷交流、讨论，分享您自己的观影心得。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt6 )</span>
